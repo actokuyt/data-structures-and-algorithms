@@ -1,5 +1,5 @@
-print("")
 ############## Exercise One ###############
+print("")
 print("############ Answers to Exercise One ################")
 print("")
 
@@ -36,10 +36,11 @@ print(exp)
 # based on this
 exp[3] -= 200
 print(exp)
-print("")
+
 
 
 ############### Exercise Two ################
+print("")
 print("############ Answers to Exercise Two ################")
 print("")
 
@@ -70,9 +71,10 @@ print(heros)
 # 5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
 heros.sort()
 print(heros)
-print("")
+
 
 ############ Exercise Three ###########
+print("")
 print("############ Answers to Exercise Three ################")
 print("")
 
